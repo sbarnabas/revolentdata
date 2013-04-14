@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>FactualDriver</id>
+    <version>1.3.5</version>
+    <title>FactualDriver</title>
+    <authors>Sergey Maskalik</authors>
+    <owners>Sergey Maskalik</owners>
+    <projectUrl>https://github.com/Factual/factual-csharp-driver</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.Net client library for Factual API. Please refer to https://github.com/Factual/factual-csharp-driver for documentation.</description>
+    <summary>.NET driver for Factual API. Provides a library to setup and receive data from factual in two lines of code. Most of the design is ported from Java Factual Driver.</summary>
+    <releaseNotes>1.3.5 - Flag and Submit support.
+1.3.4 - Monetize with multi query. Custom key for multi query.
+1.3.3 - Added monetize support.
+1.3.2 - Fixed oauth signature issue with non-english charachters.
+Updated crosswalk to match latest API.</releaseNotes>
+    <copyright />
+    <language />
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="4.5.7" />
+    </dependencies>
+    <references>
+      <reference file="FactualDriver.dll" />
+    </references>
+  </metadata>
+</package>

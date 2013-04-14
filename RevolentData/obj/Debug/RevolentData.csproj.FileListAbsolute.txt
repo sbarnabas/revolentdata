@@ -70,3 +70,5 @@ C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\obj\Debug\Revolent
 C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\obj\Debug\RevolentData.pdb
 C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\bin\MongoDB.Bson.dll
 C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\bin\MongoDB.Driver.dll
+C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\bin\FactualDriver.dll
+C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\bin\FactualDriver.xml

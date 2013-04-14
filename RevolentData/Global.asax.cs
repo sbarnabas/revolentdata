@@ -36,6 +36,11 @@ namespace RevolentData
             var cursor = coll.FindAll();
             data.program = cursor.ToList().ToArray();
             Application["data"] = data;
+
+
+            //factual api info
+            Application["factkey"] = "UVz7N3cX8wHDYon4dHoVfmj8kzYL3sDVJ2SXn8Dl";
+            Application["factsec"] = "Ok2lXgEde7JazbsbZBMSJ5bYmH0wbTLycB13TUZW";
         }
     }
 }
