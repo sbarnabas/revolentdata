@@ -68,3 +68,5 @@ C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\bin\zh-Hant\System
 C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\obj\Debug\RevolentData.csprojResolveAssemblyReference.cache
 C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\obj\Debug\RevolentData.dll
 C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\obj\Debug\RevolentData.pdb
+C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\bin\MongoDB.Bson.dll
+C:\Users\sbarn_000\Documents\GitHub\RevolentData\RevolentData\bin\MongoDB.Driver.dll
